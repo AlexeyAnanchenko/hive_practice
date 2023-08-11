@@ -1,0 +1,3 @@
+csv_files/processed
+.vscode
+docker-hadoop-hive-parquet
